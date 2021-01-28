@@ -14,7 +14,7 @@ require_relative '../lib/dog'
 # it.
 #
 # The `.rspec` file also contains a few flags that are not defaults but that
-# users commonly want.
+# users commonly want.pull
 #
 # See http://rubydoc.info/gems/rspec-core/RSpec/Core/Configuration
 RSpec.configure do |config|
